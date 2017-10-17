@@ -1,1 +1,1 @@
-FROM microsoft/windowsservercore
+FROM alpine
